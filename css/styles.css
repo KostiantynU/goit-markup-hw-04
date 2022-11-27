@@ -95,7 +95,8 @@ h5 {
 .current {
   color: var(--main-accent-color);
 }
-.head-contact-icon {
+.head-contact-icon-envelope,
+.head-contact-icon-smartphone {
   margin-right: 10px;
   fill: currentColor;
 }
@@ -289,6 +290,7 @@ h5 {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 30px;
 }
 .team-soc-items {
   width: 44px;
