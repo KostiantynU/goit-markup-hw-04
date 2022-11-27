@@ -86,12 +86,6 @@ h5 {
   color: var(--headers-nav-color);
   letter-spacing: 0.02em;
 }
-/* .head-nav > .item {
-  margin-left: 50px;
-}
-.head-nav > .item:first-child {
-  margin-left: 0;
-} */
 .head-nav-link {
   color: var(--headers-nav-color);
   display: block;
@@ -116,9 +110,6 @@ h5 {
   margin-left: auto;
   gap: 50px;
 }
-/* .head-nav-contacts > .item:last-child {
-  margin-left: 40px;
-} */
 .head-contact {
   display: flex;
   align-items: center;
@@ -153,9 +144,6 @@ h5 {
   margin-right: auto;
   text-align: center;
 }
-/* .container-eff {
-  text-align: center;
-} */
 .effective-h {
   display: block;
   margin-left: auto;
@@ -223,9 +211,6 @@ h5 {
   margin-bottom: 30px;
   padding: 25px 100px;
 }
-/* .features-list-icon {
-  margin: auto auto;
-} */
 .features-h {
   display: block;
   margin-bottom: 10px;
@@ -347,14 +332,6 @@ h5 {
 .regular-clients-item:not(:last-child) {
   margin-right: 30px;
 }
-/* Зроблений дів для стилізації, але для ефекту ховера та фокуса потрібно щоб весь дів був лінком 
-.regular-clients-item-div {
-  border: 1px solid var(--main-border-color);
-  border-radius: 4px;
-  width: 170px;
-  height: 92px;
-  padding: 16px 32px;
-} */
 .regular-clients-link {
   display: block;
   border: 1px solid var(--main-border-color);
@@ -375,10 +352,7 @@ h5 {
 /* index-footer */
 .footer {
   background-color: #2f303a;
-  /* width: 1600px; */
   height: 251px;
-  /* margin-left: auto;
-  margin-right: auto; */
   padding-top: 60px;
   padding-bottom: 60px;
 }
