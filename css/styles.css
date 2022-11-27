@@ -106,9 +106,7 @@ h5 {
   fill: currentColor;
 }
 .head-nav-link:hover,
-.head-nav-link:focus,
-.head-contact-icon:hover,
-.head-contact-icon:focus {
+.head-nav-link:focus {
   color: var(--main-accent-color);
 }
 
@@ -153,10 +151,11 @@ h5 {
   max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
-}
-.container-eff {
   text-align: center;
 }
+/* .container-eff {
+  text-align: center;
+} */
 .effective-h {
   display: block;
   margin-left: auto;
